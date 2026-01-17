@@ -13,7 +13,7 @@
 
 - 🌳 I'm continuing learning on **Next.js**
 
-- 📫 How to reach me **shawnpotter.inquires+github@gmail.com**
+- 📫 How to reach me **spotter_dev@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center"> 
